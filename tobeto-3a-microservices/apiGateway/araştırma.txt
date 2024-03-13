@@ -1,0 +1,15 @@
+//Axon Framework nedir ?//
+
+
+Axon Framework, CQRS (Command Query Responsibility Segregation) ve Event Sourcing gibi yazılım mimarilerini destekleyen
+ açık kaynaklı bir Java framework'üdür. Bu mimariler, karmaşık iş uygulamalarını geliştirmeyi ve yönetmeyi kolaylaştırmak
+ için kullanılır.
+Axon Framework, yazılım geliştiricilere uygulama kodunu daha iyi organize etmelerine ve yönetmelerine yardımcı olmak için
+bir dizi araç ve kütüphane sunar. Bu araçlar, uygulamanın farklı işlevlerini, özellikle de komutların ve sorguların
+yönetilmesini kolaylaştırır. Ayrıca, etkinlik kayıtlarını (event logs) kullanarak uygulamanın durumunu izleme ve
+yeniden oluşturma yeteneğini sağlayarak Event Sourcing prensibine dayanır.
+Axon Framework'ün temel bileşenleri arasında komut, komut işleyici, etkinlik, etkinlik işleyici, Aggregate,
+AggregateRepository ve Event Bus gibi kavramlar bulunur. Bu bileşenler, uygulamanın farklı bileşenlerini birbirine
+bağlamak ve etkileşimlerini düzenlemek için kullanılır.
+Sonuç olarak, Axon Framework, CQRS ve Event Sourcing gibi modern yazılım geliştirme prensiplerini uygulamak isteyen
+geliştiricilere güçlü bir araç seti sunar ve karmaşık iş uygulamalarının geliştirilmesini ve yönetilmesini kolaylaştırır.
